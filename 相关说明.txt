@@ -1,0 +1,9 @@
+有关说明：
+上述三个py文件:Web-spdier.py是简单的Python爬虫
+               MySQL-Python.py加入了数据库（MySQL
+               Thread-spdier.py是用多线程爬虫
+代码中还有一些小bug，没有改正过来，正在学习和探索之中
+web-flask没有完成，在插入flask遇到了较多问题，正在入门学习之中
+有与之前完全没有接触过Python，数据库等，花了大量的时间在学习这些基础的知识。
+
+
